@@ -1,0 +1,29 @@
+body{margin:0;padding:0;background:#0f172a;font-family:'Segoe UI',sans-serif}
+.wrap{max-width:580px;margin:28px auto;background:#1e293b;border-radius:14px;overflow:hidden}
+.bar{height:4px;background:linear-gradient(90deg,#3b82f6,#8b5cf6)}
+.bar-red{height:4px;background:linear-gradient(90deg,#ef4444,#dc2626)}
+.head{padding:28px 28px 20px;background:#0f172a}
+.head-red{padding:28px 28px 20px;background:#1a0a0a}
+.logo{font-size:11px;letter-spacing:3px;color:#3b82f6;font-weight:700;margin-bottom:10px}
+.logo-red{font-size:11px;letter-spacing:3px;color:#ef4444;font-weight:700;margin-bottom:10px}
+.title{font-size:22px;font-weight:700;color:#f1f5f9}
+.title-red{font-size:22px;font-weight:700;color:#fca5a5}
+.sub{font-size:13px;color:#64748b;margin-top:4px}
+.sub-red{font-size:13px;color:#7f1d1d;margin-top:4px}
+.body{padding:20px 28px 28px}
+.card{background:#0f172a;border-radius:10px;padding:18px;margin-bottom:14px}
+.lbl{font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#475569;font-weight:600}
+.row{display:flex;gap:10px;margin:10px 0}
+.col{flex:1;background:#0a1120;border-radius:8px;padding:12px 14px}
+.col .k{font-size:11px;color:#475569;margin-bottom:3px}
+.col .v{font-size:15px;font-weight:700;color:#e2e8f0}
+.id{background:#172033;border:1px dashed #1e3a5f;border-radius:6px;padding:8px 14px;
+    font-family:monospace;font-size:14px;color:#60a5fa;text-align:center;margin:10px 0}
+.advice{border-radius:8px;padding:14px 18px;margin-top:12px;font-size:13px;color:#e2e8f0}
+.warn{background:#7f1d1d22;border:1px solid #7f1d1d;border-radius:8px;
+      padding:14px 18px;margin-bottom:14px;color:#fca5a5;font-size:13px}
+.rain-box{text-align:center;padding:16px 0}
+.rain-icon{font-size:40px}
+.rain-pct{font-size:28px;font-weight:700;color:#fca5a5}
+.rain-sub{font-size:13px;color:#fca5a5aa;margin-top:4px}
+.foot{padding:16px 28px;background:#0a0f1a;text-align:center;font-size:11px;color:#334155}
